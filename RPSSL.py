@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 player_wins = 0
 comp_wins = 0
 name = (input(f"Enter your name: "))
+# paula was here
 
 host = 'http://localhost:5000/score'
 
