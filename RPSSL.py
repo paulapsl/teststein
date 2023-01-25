@@ -8,6 +8,7 @@ player_wins = 0
 comp_wins = 0
 name = (input(f"Enter your name: "))
 # paula was here
+# paula was here again
 
 host = 'http://localhost:5000/score'
 
